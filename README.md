@@ -35,6 +35,9 @@ atividade-filtros/
 
 ## Filtros utilizados
 
+![Comparação dos filtros](resultados/comparacao_filtros.png)
+
+
 ### Filtro de Média
 
 O filtro de média substitui cada pixel pela média dos pixels vizinhos, produzindo um efeito de suavização.
